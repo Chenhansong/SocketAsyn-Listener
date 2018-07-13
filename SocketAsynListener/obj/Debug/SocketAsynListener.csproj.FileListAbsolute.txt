@@ -1,0 +1,7 @@
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynListener\SocketAsynListener\bin\Debug\SocketAsynListener.exe.config
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynListener\SocketAsynListener\bin\Debug\SocketAsynListener.exe
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynListener\SocketAsynListener\bin\Debug\SocketAsynListener.pdb
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynListener\SocketAsynListener\obj\Debug\SocketAsynListener.csprojAssemblyReference.cache
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynListener\SocketAsynListener\obj\Debug\SocketAsynListener.csproj.CoreCompileInputs.cache
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynListener\SocketAsynListener\obj\Debug\SocketAsynListener.exe
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynListener\SocketAsynListener\obj\Debug\SocketAsynListener.pdb
